@@ -2,6 +2,7 @@
 Application for studying Web Scraping using Python and some additional libraries.
 
 Assignment 1 for the discipline Data analysis and knowledge extraction.
+
 Name: Gabriel Valentim
 
 ```bash
